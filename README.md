@@ -5,6 +5,7 @@
 Home/Welcome Page
 - Browse categories
 - Login icon in corner
+- Record Icon
 
 List of Audios Page
 - Brought here when selecting a category
