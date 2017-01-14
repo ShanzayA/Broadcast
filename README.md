@@ -1,7 +1,5 @@
 # Broadcast
 
----- Pages ----
-
 Home/Welcome Page
 - Browse categories
 - Login icon in corner
@@ -14,7 +12,6 @@ List of Audios Page
 Audio Page
 - Audio itself: play/pause
 - Comment and Rate
-- 
 
 Profile Page
 
